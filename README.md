@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🏢 I’m currently working for @ [govirtuo](https://www.govirtuo.com) as an SRE Lead
+- 🌱 I like learning new stuff and especially the ones that ease the daily life of my co-workers
+- 👯 I like pairing
+
+
+[![Xakraz' GitHub stats](https://github-readme-stats.vercel.app/api?username=xakraz&count_private=true&show_icons=true)](https://github.com/xakraz)
+
+
 <!--
 **xakraz/xakraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
