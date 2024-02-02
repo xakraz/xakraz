@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏢 I’m currently working for @ [govirtuo](https://www.govirtuo.com) as an SRE Lead
+- 🏢 I’m currently working for [@DataDome](https://datadome.co/) as an SRE Lead for the tooling automation and "Engineering Experience"
 - 🌱 I like learning new stuff and especially the ones that ease the daily life of my co-workers
 - 👯 I like pairing
 
